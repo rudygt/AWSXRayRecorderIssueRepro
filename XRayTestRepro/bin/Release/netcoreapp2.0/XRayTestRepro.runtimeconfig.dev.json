@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\rdebu\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\rdebu\\.nuget\\packages",
+      "C:\\renuant\\corefxlab\\dotnetcli\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

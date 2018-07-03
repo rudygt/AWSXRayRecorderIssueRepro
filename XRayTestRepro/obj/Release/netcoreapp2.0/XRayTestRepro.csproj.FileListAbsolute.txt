@@ -1,0 +1,14 @@
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\XRayTestRepro.deps.json
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\XRayTestRepro.runtimeconfig.json
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\XRayTestRepro.runtimeconfig.dev.json
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\XRayTestRepro.dll
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\bin\Release\netcoreapp2.0\XRayTestRepro.pdb
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.csprojAssemblyReference.cache
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.csproj.CoreCompileInputs.cache
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.AssemblyInfoInputs.cache
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.AssemblyInfo.cs
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.dll
+C:\Users\rdebu\source\repos\XRayTestRepro\XRayTestRepro\obj\Release\netcoreapp2.0\XRayTestRepro.pdb
